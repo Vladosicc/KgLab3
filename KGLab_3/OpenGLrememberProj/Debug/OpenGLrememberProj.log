@@ -1,0 +1,22 @@
+﻿  GUItextRectangle.cpp
+  MyOGL.cpp
+  Object.cpp
+  OpenGLrememberProj.cpp
+  Primitives.cpp
+  PrimitivesStatic.cpp
+  Render.cpp
+C:\Users\Vladosicc\Desktop\KGLab_1-2\KGLab_3\OpenGLrememberProj\Render.cpp(160,31): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\Vladosicc\Desktop\KGLab_1-2\KGLab_3\OpenGLrememberProj\Render.cpp(160,40): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\Vladosicc\Desktop\KGLab_1-2\KGLab_3\OpenGLrememberProj\Render.cpp(160,49): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\Vladosicc\Desktop\KGLab_1-2\KGLab_3\OpenGLrememberProj\Render.cpp(295,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Vladosicc\Desktop\KGLab_1-2\KGLab_3\OpenGLrememberProj\Render.cpp(297,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Vladosicc\Desktop\KGLab_1-2\KGLab_3\OpenGLrememberProj\Render.cpp(920,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Vladosicc\Desktop\KGLab_1-2\KGLab_3\OpenGLrememberProj\Render.cpp(922,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Vladosicc\Desktop\KGLab_1-2\KGLab_3\OpenGLrememberProj\Render.cpp(926,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Vladosicc\Desktop\KGLab_1-2\KGLab_3\OpenGLrememberProj\Render.cpp(928,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+C:\Users\Vladosicc\Desktop\KGLab_1-2\KGLab_3\OpenGLrememberProj\Render.cpp(462): warning C4172: возвращение адреса локальной или временной переменной : Point
+C:\Users\Vladosicc\Desktop\KGLab_1-2\KGLab_3\OpenGLrememberProj\Render.cpp(508): warning C4172: возвращение адреса локальной или временной переменной : VectorNormal
+C:\Users\Vladosicc\Desktop\KGLab_1-2\KGLab_3\OpenGLrememberProj\Render.cpp(541): warning C4172: возвращение адреса локальной или временной переменной : VectorNormal
+C:\Users\Vladosicc\Desktop\KGLab_1-2\KGLab_3\OpenGLrememberProj\Render.cpp(990): warning C4172: возвращение адреса локальной или временной переменной : coords
+  OpenGLrememberProj.vcxproj -> C:\Users\Vladosicc\Desktop\KGLab_1-2\KGLab_3\Debug\OpenGLrememberProj.exe
